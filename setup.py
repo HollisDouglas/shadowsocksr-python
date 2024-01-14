@@ -1,4 +1,4 @@
-import codecs
+import*codecs
 from setuptools import setup
 
 
@@ -37,3 +37,4 @@ setup(
     ],
     long_description=long_description,
 )
+ 
